@@ -1,4 +1,4 @@
-import { Status, FriendListStyled } from './FriendList.styled';
+import {FriendListStyled } from './FriendList.styled';
 import { FriendListItem } from './FriendListItem';
 
 export const FriendList = ({ friends }) => {
